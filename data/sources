@@ -1,0 +1,16 @@
+icon data\images\Red_up.png
+red_life data\images\Red_life.png
+blue_life data\images\Blue_life.png
+redTank_left data\images\Red_left.png
+redTank_right data\images\Red_right.png
+redTank_up data\images\Red_up.png
+redTank_down data\images\Red_down.png
+blueTank_left data\images\Blue_left.png
+blueTank_right data\images\Blue_right.png
+blueTank_up data\images\Blue_up.png
+blueTank_down data\images\Blue_down.png
+bul_left data\images\Bullet_left.png
+bul_right data\images\Bullet_right.png
+bul_down data\images\Bullet_down.png
+bul_up data\images\Bullet_up.png
+block data\images\Block.png
